@@ -30,39 +30,4 @@ Turkish keyboard
 [arabic keyboard Yamli](https://www.clavier-arabe.co/p/arabic-keyboard-yamli.html)
 
 
-Teclado virtual
-Teclado alemán
-Teclado Inglés
-Teclado árabe
-Teclado coreano
-Teclado español
-Teclado francés
-Teclado ruso
-Teclado turco
-Tastiera virtuale - virtuelle Tastatur - sanal klavye
-Tastiera virtuale
-Tastiera tedesca
-Tastiera Inglese
-Tastiera Araba
-Tastiera spagnola
-Tastiera Francese
-Tastiera Russa
-Tastiera turca
-virtuelle Tastatur
-Deutsche Tastatur
-Englische Tastatur
-Arabische Tastatur
-Koreanische Tastatur
-Spanische Tastatur
-Französische Tastatur
-Russische tastatur
-Türkische Tastatur
-sanal klavye
-Almanca Klavye
-İngilizce Klavye
-Arapça Klavye
-Korece Klavye
-İspanyolca Klavye
-Fransızca Klavye
-Rusça klavye
-Türkçe klavye
+Smart Yamli Arabic Keyboard - Transliteration Arabic Keyboard
