@@ -30,4 +30,4 @@ Turkish keyboard
 [arabic keyboard Yamli](https://www.clavier-arabe.co/p/arabic-keyboard-yamli.html)
 
 
-Smart Yamli Arabic Keyboard - Transliteration Arabic Keyboard
+Smart Yamli Arabic Keyboard - Transliteration Arabic Keyboard.
