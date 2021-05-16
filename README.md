@@ -1,6 +1,3 @@
-<h1><b><a rel="dofollow" target="_blank" href="https://www.clavier-arabe.co">clavier arabe en ligne</a></b></h1>
-  <h1><b><a rel="dofollow" target="_blank" href="https://www.clavier-arabe.co">clavier arabe 2021</a></b></h1>
-<h1><b><a rel="dofollow" target="_blank" href="https://www.clavier-arabe.co/p/clavier-viertuel.html">clavier arabe virtuel</a>
 
 <h3> liste de clavier anglais en ligne </h3><br/>
 
