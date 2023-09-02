@@ -1,3 +1,15 @@
+Using a Clavier Arabe en Ligne is easy. Simply open a web browser, visit a website offering this service, and start typing using your standard keyboard. The virtual Arabic keyboard will appear on your screen, allowing you to type in Arabic seamlessly.
+
+<b><a href="https://www.clavier-arabe.org/p/tastiera-araba.html">tastiera araba</a></b><br/>
+<b><a href="https://www.clavier-arabe.org/p/teclado-arabe.html">teclado arabe</a></b><br/>
+<b><a href="https://www.clavier-arabe.org/p/lawhat-mafatih-arabia.html">lawhat almafatih arabia</a></b><br/>
+<b><a href="https://www.clavier-arabe.org/p/arapca-klavye.html">arapca klavye</a></b><br/>
+<b><a href="https://www.clavier-arabe.org">clavier arabe</a></b><br/>
+<b><a href="https://www.clavier-arabe.org/p/arabic-keyboard.html">arabic keyboard</a></b><br/>
+<b><a href="https://www.clavier-arabe.org/p/arabische-tastatur.html">arabische tastatur</a></b><br/>
+
+
+
 <h3> liste de clavier anglais en ligne </h3><br/>
 <b><a href="https://www.clavier-arabe.co/p/clavier-anglais.html">clavier anglais</a></b><br/>
 <a href="https://www.clavier-arabe.co/p/english-keyboard.html">english keyboard</a><br/>
@@ -10,6 +22,9 @@
 <a href="https://www.clavier-arabe.co/p/teclado-ingles-online.html">Teclado inglês</a><br/>
 <a href="https://www.clavier-arabe.co/p/tastatura-engleza.html">Tastatură engleză</a><br/>
 <a href="https://www.clavier-arabe.co/p/hebrew-english-keyboard.html">מקלדת אנגלית</a><br/>
+
+
+
 
 <h3> Liste des claviers français en ligne </h3><br/>
 
